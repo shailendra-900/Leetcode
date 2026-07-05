@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shailendra-900/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/shailendra-900/Leetcode/tree/master/0086-partition-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/shailendra-900/Leetcode/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
