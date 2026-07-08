@@ -38,4 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2579-count-total-number-of-colored-cells](https://github.com/shailendra-900/Leetcode/tree/master/2579-count-total-number-of-colored-cells) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shailendra-900/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shailendra-900/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## String
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shailendra-900/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shailendra-900/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
