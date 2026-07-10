@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0436-find-right-interval](https://github.com/shailendra-900/Leetcode/tree/master/0436-find-right-interval) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shailendra-900/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Breadth-First Search
 |  |
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shailendra-900/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0436-find-right-interval](https://github.com/shailendra-900/Leetcode/tree/master/0436-find-right-interval) |
+## Sorting
+|  |
+| ------- |
+| [0436-find-right-interval](https://github.com/shailendra-900/Leetcode/tree/master/0436-find-right-interval) |
 <!---LeetCode Topics End-->
