@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/shailendra-900/Leetcode/tree/master/0436-find-right-interval) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shailendra-900/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/shailendra-900/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/shailendra-900/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shailendra-900/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shailendra-900/Leetcode/tree/master/0009-palindrome-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shailendra-900/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shailendra-900/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2579-count-total-number-of-colored-cells](https://github.com/shailendra-900/Leetcode/tree/master/2579-count-total-number-of-colored-cells) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shailendra-900/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/shailendra-900/Leetcode/tree/master/0436-find-right-interval) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shailendra-900/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/shailendra-900/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/shailendra-900/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shailendra-900/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
