@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shailendra-900/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0436-find-right-interval](https://github.com/shailendra-900/Leetcode/tree/master/0436-find-right-interval) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shailendra-900/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/shailendra-900/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -71,10 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shailendra-900/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shailendra-900/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shailendra-900/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0436-find-right-interval](https://github.com/shailendra-900/Leetcode/tree/master/0436-find-right-interval) |
 ## Sorting
 |  |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shailendra-900/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shailendra-900/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
