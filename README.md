@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/shailendra-900/Leetcode/tree/master/0436-find-right-interval) |
 | [0486-predict-the-winner](https://github.com/shailendra-900/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shailendra-900/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/shailendra-900/Leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/shailendra-900/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/shailendra-900/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shailendra-900/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shailendra-900/Leetcode/tree/master/0009-palindrome-number) |
 | [0486-predict-the-winner](https://github.com/shailendra-900/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shailendra-900/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/shailendra-900/Leetcode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shailendra-900/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2579-count-total-number-of-colored-cells](https://github.com/shailendra-900/Leetcode/tree/master/2579-count-total-number-of-colored-cells) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shailendra-900/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/shailendra-900/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/shailendra-900/Leetcode/tree/master/0877-stone-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shailendra-900/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shailendra-900/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
@@ -165,4 +168,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/shailendra-900/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/shailendra-900/Leetcode/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/shailendra-900/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/shailendra-900/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
