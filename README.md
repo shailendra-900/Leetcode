@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shailendra-900/Leetcode/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/shailendra-900/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/shailendra-900/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0436-find-right-interval](https://github.com/shailendra-900/Leetcode/tree/master/0436-find-right-interval) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shailendra-900/Leetcode/tree/master/0078-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/shailendra-900/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shailendra-900/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shailendra-900/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -304,4 +306,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shailendra-900/Leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/shailendra-900/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
